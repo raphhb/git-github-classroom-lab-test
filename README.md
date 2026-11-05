@@ -35,7 +35,7 @@ git push -u origin main
 2. Clone **your fork** (replace `YOUR_USERNAME`):
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/git-github-classroom-lab.git
+git clone https://github.com/YOUR_USERNAME/git-github-classroom-lab-test.git
 cd git-github-classroom-lab
 git status
 ```
